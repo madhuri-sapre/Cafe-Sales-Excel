@@ -8,7 +8,7 @@ Designed dynamic charts to visualize item-wise, day-wise, and month-wise sales t
 Integrated interactive filters for month and day selection to enhance user interactivity.
 Displayed KPIs such as total transactions, total quantity sold, and total revenue.
 Analyzed sales distribution by location (in-store, takeaway) and payment methods (cash, card, digital wallet).
-Built an engaging and professional dashboard layout using Excel charts, slicers, and pivot tables.
+Built an engaging and professional dashboard layout using Excel charts, slicers, and pivot tables.  
 
 Tools & Skills Used:
 Microsoft Excel, Pivot Tables, Charts, Slicers, Data Cleaning, Data Visualization, Dashboard Design, Business Analysis.
